@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/developer/.local/lib/python3.10/site-packages/",
+        "/opt/conda/lib/python3.10/site-packages/",
+    ]
+}
